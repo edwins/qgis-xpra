@@ -1,1 +1,1 @@
-FROM: tswetnam/xpra-qgis:bionic
+FROM tswetnam/xpra-qgis:bionic
